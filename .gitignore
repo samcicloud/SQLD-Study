@@ -1,0 +1,9 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Copyrighted materials (교재 PDF, 기출 원본 등은 공개 저장소에 올리지 않기)
+*.pdf
